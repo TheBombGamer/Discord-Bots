@@ -1,3 +1,4 @@
 socket
 discord.py
 flask
+asyncio

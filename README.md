@@ -3,4 +3,3 @@ A collective of fully functional python discord bots with comments for starters,
 # Links
 https://host.gilect.net<br>
 https://kmg.work.gd<br>
-https://buyalts.gilect.net<br>

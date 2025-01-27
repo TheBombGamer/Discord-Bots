@@ -2,7 +2,8 @@ import discord
 from discord.ext import commands
 
 intents = discord.Intents.default()
-intents.members = True  # Enable the members intent in the discord dev app so you can use this
+intents.members = True  
+# Enable the members intent in the discord dev app so you can use this
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 

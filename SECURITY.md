@@ -14,9 +14,9 @@ If you discover a security vulnerability in this project, please report it as so
 ## Supported Versions
 
 We will provide security updates for the following versions of this project:
-
-- Version 1.x (latest) ✔️
-- Version 0.x (latest) ✖️
+- LTS 1.24.3 ✔️
+- Version 1.x (production LTS) ✔️
+- Version 0.x (non-latest) ✖️
 
 Older versions may not receive security updates. Please upgrade to the latest version to ensure you have the latest security fixes.
 

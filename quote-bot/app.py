@@ -6,9 +6,8 @@ bot = commands.Bot(command_prefix='!')
 
 @bot.command()
 async def quote(ctx):
-    # Fetch a quote from the API
+    # Fetch a quote from the API learn more on the api wiki page
     response = requests.get("https://zenquotes.io/api/random")
-    
     if response.status_code == 200:
         data = response.json()
         quote = data[0]['q']

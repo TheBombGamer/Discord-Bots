@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in this project, please report it as soon as possible. We take security seriously and will respond promptly to any reports.
 
-1. **Email**: Send an email to [your-email@example.com] with the details of the vulnerability.
+1. **Email**: Send an email to [braydenspeight848@proton.me] with the details of the vulnerability.
 2. **Details to Include**:
    - A description of the vulnerability
    - Steps to reproduce the issue
@@ -15,14 +15,14 @@ If you discover a security vulnerability in this project, please report it as so
 
 We will provide security updates for the following versions of this project:
 
-- Version 1.x (latest)
-- Version 0.x (latest)
+- Version 1.x (latest) ✔️
+- Version 0.x (latest) ✖️
 
 Older versions may not receive security updates. Please upgrade to the latest version to ensure you have the latest security fixes.
 
 ## Security Updates
 
-We will make security updates available as soon as possible. You can track security updates in the [Releases](https://github.com/yourusername/your-repo/releases) section of this repository.
+We will make security updates available as soon as possible. You can track security updates in the [Releases](https://github.com/TheBombGamer/Discord-bots/releases) section of this repository.
 
 ## Code of Conduct
 

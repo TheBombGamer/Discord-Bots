@@ -10,6 +10,7 @@ If you discover a security vulnerability in this project, please report it as so
    - Steps to reproduce the issue
    - Any relevant screenshots or logs
    - Your contact information (optional, but helpful for follow-up)
+   - with all of this ypu should still make an issue in the github repo!
 
 ## Supported Versions
 
